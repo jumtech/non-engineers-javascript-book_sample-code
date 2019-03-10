@@ -1,0 +1,1 @@
+prompt("タイトルはこちら", document.title);
